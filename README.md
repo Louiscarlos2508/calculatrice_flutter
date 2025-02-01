@@ -1,6 +1,6 @@
 # calculatricex
 
-A new Flutter project.
+A flutter calculator app with dark and white themes
 
 ## Getting Started
 
